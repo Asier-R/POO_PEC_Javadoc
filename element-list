@@ -1,0 +1,15 @@
+unnamed package
+entidad
+entidad.persona
+entidad.registro
+entidad.unidad
+entidad.unidad.formacion
+entidad.unidad.medica
+entidad.unidad.medica.consulta
+entidad.unidad.medica.habitacion
+entidad.unidad.medica.quirofano
+entidad.unidad.medica.urgencias
+entidad.unidad.servicio
+entidad.unidad.servicio.administracion
+enumerado
+servicio
